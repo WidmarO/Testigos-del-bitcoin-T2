@@ -1,7 +1,7 @@
 # Proyecto - Sistema de Tutorías
 - **Universidad Nacional de San Antonio Abad del Cusco**
 - **Escuela Profesional de Ingenieria Informatica y de Sistemas**
-- **Ing. de Software I - Grupo 2**
+- **Ing. de Software I - Grupo 5**
 #### Docente:
 - **Quintanilla Portugal Roxana Lisette** - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
 
