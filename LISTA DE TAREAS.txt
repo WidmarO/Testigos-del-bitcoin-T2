@@ -1,0 +1,55 @@
+RECOMENDACIONES:
+	- Los pasos 1, 2 y 3, se tienen que realizar en cascada, uno a continuacion del otro (obviamente) para 
+	  tener coherencia.
+
+	- Todo lo que hagan en el proceso de obtener sus resultados incluyanlo en el docuemnto del link que esta
+	  abajo, no importa si el tamaño se incrementa mucho, el proposito de esto es que si alguien te pregunta
+	  como llegaste a "X" resultado, responder mostrando el proceso de este documento.
+
+	https://docs.google.com/document/d/1jGPdO2pkE6QTKQDSL_mNEPnGIJKJ5AxUrhHPYhaZVbg/edit
+
+	- Revisen tambien el github de Claudia si tienen dudas.
+
+LISTA DE TAREAS
+Asignado a -> Marko y Charlie 
+1. Agregar la funcionalidad "agregar cambio de tutor", para lo cual considerar lo siguiente.
+	- Se ha considerado, que esta sera un funcionalidad de la cual tendra control el estudiante,
+	  activando un check, en su vista, para decidir si desea o no que se pasen los datos al otro docente.
+	- Considerar esta funcionalidad en el SD.
+	- Considerar esta funcionalidad en el SR, ver tambien que esta funcionalidad, esta ligada
+	al requerimiento no funcional, de confidencialidad.
+	- Agregar el requisito a la lista de requisitos.
+Resultados:
+	De esto obtener los nuevos diagramas SD y SR, desde los cuales se deben obtener los nuevas tareas
+	para nuestro backlog, solo debemos agregar las diferencias.
+
+Asignado a -> Etson y Vladimir
+2. Elegir y estudiar mas a fondo para luego escribir una pequeña reseña sobre el metodo aplicado para
+   la priorizacion de los requisitos, y priorizar los requisitos (incluidos los nuevos) segun este 
+   metodo o tecnica (tambien ordenarlos).
+Resultados:
+	De esto obtener la nueva lista de requisitos o requerimiento bien ordenada y con sus respectivos
+	indicadores de su priorizacion. (S-1, S-2, M-1, ... ,etc)
+Asignado a -> Widmar
+3. Obtener el nuevo Backlog agregando las nuevas tareas, para cumplir el requisito de confidencialidad
+   que tiene el estudiante sobre sus datos.
+Resultados:
+	De esto obtener el nuevo backlog, ordenado y con sus tareas listas para asignar.
+
+Asignado a -> Melanie
+4. El analisis de costos (COCOMO) de algun grupo elegido de desarrollo-I, (de preferencia el grupo de
+   electron). -> Melanie
+Resultados:
+	De esto obtener un informe integro y bien presentable de COCOMO, resaltar tambien los resultados
+	que son, el tiempo a realizar, el numero considerado de lineas de codigo, y demas.
+
+5. El analisis de riesgos sera realizado el dia de mañana, con todos los integrantes.
+
+Asignado a -> Nadiabeth
+6. Hacer las diapositivas con todos los resultados para presentar, algo corto conciso, de preferencia
+   utilizar alguna herramienta como canva para obtener un mejor resultado o tambn ppt
+   para dudas consultar las diapos del grupo de claudia. -> Nadiabeth
+
+NOTA: Rudy, tienes que terminar tu tarea de los prototipos para mañana, esa es tu unica tarea, 
+      si tienes duda consulta a Melanie y/o Nadia.
+ 

@@ -5,6 +5,14 @@
 ## Docente:
 - **Quintanilla Portugal Roxana Lisette** - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
 
+## Link al Github de frontend con react js
+
+- **Proyecto tutorias Frontend** - _Github Link_ - [Tutorias Frontend React](https://github.com/WidmarO/tutoring-system-react)
+
+## Link al Github de backedn con flask
+
+- **Proyecto tutorias Backend** - _Github Link_ - [Tutorias Backend Flask](https://github.com/WidmarO/tutoring-system-api)
+
 ## Autores ✒️
 * **Widmar Raul Quispe Leon** - _GitHub Account_ - [WidmarO](https://github.com/WidmarO)
 * **Sullca Peralta Melanie Indira** - _GitHub Account_ - [Melanie279](https://github.com/Melanie279)
